@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐾 Paws & Panics
 
 A minesweeper-style console game built in C++ using Object-Oriented Programming.
@@ -122,3 +123,6 @@ PawsAndPanics.exe
 - This project was made as an introduction to OOP in C++
 - This game uses Windows-only APIs (`windows.h`, `Sleep`, `SetConsoleTextAttribute`) and will only compile and run on Windows
 - Map size input: rows must be between 4–10, columns must be ≥ rows
+=======
+# PawsAndPanic
+>>>>>>> 0981c5d47c70e65e2bfb820198769a3e1c5208bd
